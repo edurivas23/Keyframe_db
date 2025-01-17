@@ -1,0 +1,66 @@
+{
+    "trailers": [
+      {
+        "link": "2f8pD5tT8L0",
+        "nombre": "The Legend of Zelda: Tears of the Kingdom",
+        "descripcion": "Explora el vasto mundo de Hyrule en esta emocionante secuela llena de aventuras y desafíos."
+      },
+      {
+        "link": "8fY7z5oWmXs",
+        "nombre": "Spider-Man 2",
+        "descripcion": "Únete a Peter Parker y Miles Morales en una nueva aventura épica en Nueva York."
+      },
+      {
+        "link": "3W8C3z4z2eA",
+        "nombre": "Final Fantasy XVI",
+        "descripcion": "Sumérgete en un mundo de fantasía oscura con personajes cautivadores y una historia épica."
+      },
+      {
+        "link": "4g1Z9Y5dWgE",
+        "nombre": "Starfield",
+        "descripcion": "Descubre nuevos mundos y explora el espacio en esta ambiciosa aventura de ciencia ficción."
+      },
+      {
+        "link": "Z1b5L1uU3kE",
+        "nombre": "Resident Evil 4 Remake",
+        "descripcion": "Revive el clásico horror de supervivencia con gráficos mejorados y nuevas mecánicas de juego."
+      }
+    ],
+    "games": [
+      {
+        "nombre": "Elden Ring",
+        "genero": "RPG de acción",
+        "descripcion": "Explora las Tierras Intermedias en este juego lleno de desafíos y secretos, creado por FromSoftware.",
+        "plataformas": ["PC", "PS5", "Xbox Series X|S"],
+        "lanzamiento": "2022-02-25"
+      },
+      {
+        "nombre": "Hollow Knight",
+        "genero": "Metroidvania",
+        "descripcion": "Embárcate en un viaje en un mundo subterráneo lleno de insectos y desafíos únicos.",
+        "plataformas": ["PC", "Nintendo Switch", "PS4", "Xbox One"],
+        "lanzamiento": "2017-02-24"
+      },
+      {
+        "nombre": "Cyberpunk 2077",
+        "genero": "RPG de mundo abierto",
+        "descripcion": "Adéntrate en Night City, un mundo futurista lleno de acción, intrigas y decisiones importantes.",
+        "plataformas": ["PC", "PS5", "Xbox Series X|S"],
+        "lanzamiento": "2020-12-10"
+      },
+      {
+        "nombre": "God of War Ragnarök",
+        "genero": "Acción y aventura",
+        "descripcion": "Únete a Kratos y Atreus en una épica aventura inspirada en la mitología nórdica.",
+        "plataformas": ["PS5", "PS4"],
+        "lanzamiento": "2022-11-09"
+      },
+      {
+        "nombre": "Minecraft",
+        "genero": "Sandbox",
+        "descripcion": "Explora, construye y sobrevive en un mundo de bloques con posibilidades infinitas.",
+        "plataformas": ["PC", "Nintendo Switch", "PS4", "Xbox One", "Móvil"],
+        "lanzamiento": "2011-11-18"
+      }
+    ]
+  }
