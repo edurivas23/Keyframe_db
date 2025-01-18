@@ -33,7 +33,7 @@
         "descripcion": "Explora las Tierras Intermedias en este juego lleno de desafíos y secretos, creado por FromSoftware.",
         "plataformas": ["PC", "PS5", "Xbox Series X|S"],
         "lanzamiento": "2022-02-25",
-        "imagen": "https://via.placeholder.com/300x400.png?text=Elden+Ring"
+        "imagen": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2000/aGhopp3MHppi7kooGE2Dtt8C.png"
       },
       {
         "nombre": "Hollow Knight",
@@ -41,7 +41,7 @@
         "descripcion": "Embárcate en un viaje en un mundo subterráneo lleno de insectos y desafíos únicos.",
         "plataformas": ["PC", "Nintendo Switch", "PS4", "Xbox One"],
         "lanzamiento": "2017-02-24",
-        "imagen": "https://via.placeholder.com/300x400.png?text=Hollow+Knight"
+        "imagen": "https://images.squarespace-cdn.com/content/v1/606d159a953867291018f801/1619987265163-9XILMVT3TK4HZ5X6538M/VH_01_1080pjpg.jpg"
       },
       {
         "nombre": "Cyberpunk 2077",
@@ -49,7 +49,7 @@
         "descripcion": "Adéntrate en Night City, un mundo futurista lleno de acción, intrigas y decisiones importantes.",
         "plataformas": ["PC", "PS5", "Xbox Series X|S"],
         "lanzamiento": "2020-12-10",
-        "imagen": "https://via.placeholder.com/300x400.png?text=Cyberpunk+2077"
+        "imagen": "https://image.api.playstation.com/vulcan/ap/rnd/202008/0416/6Bo40lnWU0BhgrOUm7Cb6by3.png"
       },
       {
         "nombre": "God of War Ragnarök",
@@ -57,15 +57,15 @@
         "descripcion": "Únete a Kratos y Atreus en una épica aventura inspirada en la mitología nórdica.",
         "plataformas": ["PS5", "PS4"],
         "lanzamiento": "2022-11-09",
-        "imagen": "https://via.placeholder.com/300x400.png?text=God+of+War+Ragnarok"
+        "imagen": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2021/09/god-war-ragnarok-2466115.jpg"
       },
       {
         "nombre": "Minecraft",
-        "genero": "Sandbox",
+        "genero": "Sandbox",  
         "descripcion": "Explora, construye y sobrevive en un mundo de bloques con posibilidades infinitas.",
         "plataformas": ["PC", "Nintendo Switch", "PS4", "Xbox One", "Móvil"],
         "lanzamiento": "2011-11-18",
-        "imagen": "https://via.placeholder.com/300x400.png?text=Minecraft"
+        "imagen": "https://image.api.playstation.com/vulcan/ap/rnd/202407/0401/670c294ded3baf4fa11068db2ec6758c63f7daeb266a35a1.png"
       }
     ]
   }
