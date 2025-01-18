@@ -32,35 +32,40 @@
         "genero": "RPG de acción",
         "descripcion": "Explora las Tierras Intermedias en este juego lleno de desafíos y secretos, creado por FromSoftware.",
         "plataformas": ["PC", "PS5", "Xbox Series X|S"],
-        "lanzamiento": "2022-02-25"
+        "lanzamiento": "2022-02-25",
+        "imagen": "https://via.placeholder.com/300x400.png?text=Elden+Ring"
       },
       {
         "nombre": "Hollow Knight",
         "genero": "Metroidvania",
         "descripcion": "Embárcate en un viaje en un mundo subterráneo lleno de insectos y desafíos únicos.",
         "plataformas": ["PC", "Nintendo Switch", "PS4", "Xbox One"],
-        "lanzamiento": "2017-02-24"
+        "lanzamiento": "2017-02-24",
+        "imagen": "https://via.placeholder.com/300x400.png?text=Hollow+Knight"
       },
       {
         "nombre": "Cyberpunk 2077",
         "genero": "RPG de mundo abierto",
         "descripcion": "Adéntrate en Night City, un mundo futurista lleno de acción, intrigas y decisiones importantes.",
         "plataformas": ["PC", "PS5", "Xbox Series X|S"],
-        "lanzamiento": "2020-12-10"
+        "lanzamiento": "2020-12-10",
+        "imagen": "https://via.placeholder.com/300x400.png?text=Cyberpunk+2077"
       },
       {
         "nombre": "God of War Ragnarök",
         "genero": "Acción y aventura",
         "descripcion": "Únete a Kratos y Atreus en una épica aventura inspirada en la mitología nórdica.",
         "plataformas": ["PS5", "PS4"],
-        "lanzamiento": "2022-11-09"
+        "lanzamiento": "2022-11-09",
+        "imagen": "https://via.placeholder.com/300x400.png?text=God+of+War+Ragnarok"
       },
       {
         "nombre": "Minecraft",
         "genero": "Sandbox",
         "descripcion": "Explora, construye y sobrevive en un mundo de bloques con posibilidades infinitas.",
         "plataformas": ["PC", "Nintendo Switch", "PS4", "Xbox One", "Móvil"],
-        "lanzamiento": "2011-11-18"
+        "lanzamiento": "2011-11-18",
+        "imagen": "https://via.placeholder.com/300x400.png?text=Minecraft"
       }
     ]
   }
